@@ -46,4 +46,19 @@ Este projeto foi desenvolvido como parte do Bootcamp de IA Generativa, onde tive
 
 ---
 
+## 🏷️ **Tags**
+
+- QA
+- Testes de Software
+- Inteligência Artificial
+- Matrix
+- Podcast
+- Tecnologia
+- Inovação
+- Bootcamp
+- Curiosidades
+- Desenvolvimento Profissional
+
+---
+
 Obrigado por embarcar nesta jornada de qualidade e tecnologia conosco! 🌟
