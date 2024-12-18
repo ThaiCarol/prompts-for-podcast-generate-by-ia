@@ -1,99 +1,49 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
+# Red Pill QA: IA no Controle dos Testes
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
+Bem-vindo ao repositório oficial do podcast **Red Pill QA: IA no Controle dos Testes**! 🎙️
 
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
-# Projeto Podcast Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
-
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+Este projeto explora o mundo do Quality Assurance (QA) e como a Inteligência Artificial está transformando o dia a dia de testadores, com episódios curtos e temáticos que unem tecnologia, criatividade e referências ao universo nerd, inspirado no filme *Matrix*.
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+## 🧠 **Sobre o Bootcamp**
+
+Este projeto foi desenvolvido como parte do Bootcamp de IA Generativa, onde tivemos a oportunidade de aplicar conceitos teóricos em uma prática criativa e inovadora. Durante o curso, aprendemos como ferramentas de IA podem ser integradas a diferentes áreas e exploramos suas possibilidades, criando produtos que combinam tecnologia e impacto real. A experiência foi fundamental para consolidar os conhecimentos adquiridos e entender o potencial da IA no dia a dia.
+
+---
+
+## 🎯 **Sobre o Podcast**
+
+- **Título:** Red Pill QA: IA no Controle dos Testes  
+- **Apresentação:** Alice QA  
+- **Duração:** Episódios de até 5 minutos  
+- **Público-Alvo:** Iniciantes na área de QA e curiosos por novas tecnologias na TI  
+- **Tema Central:** Desafios e benefícios da IA no mundo dos testes de software, com curiosidades e dicas práticas em um ambiente criativo e descontraído.
+
+---
+
+## 🛠️ **Ferramentas Utilizadas**
+
+### 🎧 **Criação do Áudio:**
+- O áudio foi gerado utilizando a tecnologia da **[Eleven Labs](https://elevenlabs.io/)**, garantindo qualidade profissional e naturalidade na voz da apresentadora.
+
+### 🎨 **Criação de Imagens:**
+- As capas e imagens do projeto foram geradas por:
+  - **[ChatGPT](https://chatgpt.com)** para prompts criativos e direções artísticas.  
+  - **[Leonardo AI](https://app.leonardo.ai/)** para geração final das imagens.
+
+### 🎵 **Edição de Som:**
+- A edição do áudio foi realizada no **[CapCut](https://www.capcut.com/)**, garantindo cortes precisos e ajustes finais para uma experiência sonora imersiva.
+
+---
+
+## 📚 **Conteúdo do Repositório**
+
+- `episodios/` - Arquivos de áudio dos episódios.  
+- `imagens/` - Capas e imagens promocionais do podcast.  
+- `roteiros/` - Roteiros dos episódios em formato texto.  
+- `scripts/` - Scripts para automação de tarefas relacionadas ao podcast.
+
+---
+
+Obrigado por embarcar nesta jornada de qualidade e tecnologia conosco! 🌟
